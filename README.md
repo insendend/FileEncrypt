@@ -7,4 +7,4 @@ The process is displayed by a progress bar. When the progress bar is hovered ove
 If user stops the encryption, the file will be return to its previous state.
 
 ## Screenshots
-![ScreenShot](https://raw.github.com/insendend/FileEncrypt/master/FileEncrypt/Resources/Screenshots/1.png)
+![ScreenShot](https://raw.github.com/insendend/FileEncrypt/master/FileEncrypt/Resourses/Screenshots/1.png)
